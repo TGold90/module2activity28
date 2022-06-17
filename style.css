@@ -7,4 +7,9 @@
 main {
     display: flex;
     flex-wrap: wrap;
+    background-color: dimgray;
+    color: darkorchid;
 }
+
+
+
